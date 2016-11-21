@@ -14,7 +14,7 @@ class ${FileName} extends React.Component{
 	}
 }
 
-${FileName}.PropTypes = {
+${FileName}.propTypes = {
 	//myProp: PropTypes.string.isRequired
 }
 
